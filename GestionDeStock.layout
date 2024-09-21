@@ -1,0 +1,229 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_layout_file>
+	<FileVersion major="1" minor="0" />
+	<ActiveTarget name="Debug" />
+	<File name="ArchivoCliente.h" open="1" top="0" tabpos="23" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="232" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="Persona.h" open="1" top="0" tabpos="18" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="357" topLine="4" />
+		</Cursor>
+	</File>
+	<File name="Cliente.h" open="1" top="0" tabpos="20" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="551" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="Persona.cpp" open="1" top="0" tabpos="19" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="544" topLine="12" />
+		</Cursor>
+	</File>
+	<File name="Fecha.h" open="1" top="0" tabpos="2" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="383" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="Producto.h" open="1" top="0" tabpos="17" split="0" active="1" splitpos="0" zoom_1="2" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="850" topLine="4" />
+		</Cursor>
+	</File>
+	<File name="GestorDeVenta.h" open="1" top="0" tabpos="5" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="395" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="MenuConfiguracion.cpp" open="1" top="0" tabpos="22" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="5071" topLine="52" />
+		</Cursor>
+		<Folding>
+			<Collapse line="8" />
+			<Collapse line="90" />
+			<Collapse line="115" />
+			<Collapse line="141" />
+			<Collapse line="167" />
+		</Folding>
+	</File>
+	<File name="Fecha.cpp" open="1" top="0" tabpos="14" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="1339" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="GestorDeVenta.cpp" open="1" top="0" tabpos="6" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="9074" topLine="51" />
+		</Cursor>
+		<Folding>
+			<Collapse line="87" />
+			<Collapse line="111" />
+			<Collapse line="281" />
+			<Collapse line="301" />
+			<Collapse line="376" />
+			<Collapse line="408" />
+			<Collapse line="440" />
+			<Collapse line="464" />
+			<Collapse line="487" />
+			<Collapse line="508" />
+			<Collapse line="531" />
+			<Collapse line="543" />
+			<Collapse line="555" />
+			<Collapse line="587" />
+			<Collapse line="617" />
+			<Collapse line="645" />
+			<Collapse line="702" />
+			<Collapse line="731" />
+			<Collapse line="742" />
+			<Collapse line="783" />
+		</Folding>
+	</File>
+	<File name="GestorDeProducto.h" open="1" top="0" tabpos="15" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="102" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="Vendedor.cpp" open="1" top="0" tabpos="25" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="280" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="ArchivoProducto.cpp" open="1" top="0" tabpos="12" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="144" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="ArchivoVendedor.h" open="1" top="0" tabpos="27" split="0" active="1" splitpos="0" zoom_1="1" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="334" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="ArchivoCliente.cpp" open="1" top="0" tabpos="24" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="609" topLine="0" />
+		</Cursor>
+		<Folding>
+			<Collapse line="25" />
+			<Collapse line="45" />
+			<Collapse line="63" />
+			<Collapse line="75" />
+			<Collapse line="95" />
+		</Folding>
+	</File>
+	<File name="main.cpp" open="1" top="0" tabpos="9" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="283" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="ArchivoVenta.cpp" open="1" top="0" tabpos="4" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="295" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="ArchivoProducto.h" open="1" top="0" tabpos="11" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="487" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="GestorDeProducto.cpp" open="1" top="0" tabpos="13" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="4569" topLine="0" />
+		</Cursor>
+		<Folding>
+			<Collapse line="190" />
+			<Collapse line="201" />
+			<Collapse line="239" />
+			<Collapse line="306" />
+		</Folding>
+	</File>
+	<File name="ArchivoVendedor.cpp" open="1" top="0" tabpos="26" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="1895" topLine="11" />
+		</Cursor>
+		<Folding>
+			<Collapse line="3" />
+			<Collapse line="16" />
+			<Collapse line="45" />
+			<Collapse line="57" />
+		</Folding>
+	</File>
+	<File name="MenuPrincipal.h" open="1" top="0" tabpos="3" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="100" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="ArchivoVenta.h" open="1" top="0" tabpos="8" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="328" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="MenuConfiguracion.h" open="1" top="0" tabpos="7" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="344" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="Venta.cpp" open="1" top="0" tabpos="28" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="117" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="MenuPrincipal.cpp" open="1" top="0" tabpos="10" split="0" active="1" splitpos="0" zoom_1="1" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="1423" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="Venta.h" open="1" top="1" tabpos="1" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="398" topLine="9" />
+		</Cursor>
+	</File>
+	<File name="Vendedor.h" open="1" top="0" tabpos="29" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="386" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="Producto.cpp" open="1" top="0" tabpos="16" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="499" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="Cliente.cpp" open="1" top="0" tabpos="21" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="519" topLine="6" />
+		</Cursor>
+	</File>
+	<Target name="Debug" top="Venta.h">
+		<File name="Venta.h" />
+		<File name="Fecha.h" />
+		<File name="MenuPrincipal.h" />
+		<File name="ArchivoVenta.cpp" />
+		<File name="GestorDeVenta.h" />
+		<File name="GestorDeVenta.cpp" />
+		<File name="MenuConfiguracion.h" />
+		<File name="ArchivoVenta.h" />
+		<File name="main.cpp" />
+		<File name="MenuPrincipal.cpp" />
+		<File name="ArchivoProducto.h" />
+		<File name="ArchivoProducto.cpp" />
+		<File name="GestorDeProducto.cpp" />
+		<File name="Fecha.cpp" />
+		<File name="GestorDeProducto.h" />
+		<File name="Producto.cpp" />
+		<File name="Producto.h" />
+		<File name="Persona.h" />
+		<File name="Persona.cpp" />
+		<File name="Cliente.h" />
+		<File name="Cliente.cpp" />
+		<File name="MenuConfiguracion.cpp" />
+		<File name="ArchivoCliente.h" />
+		<File name="ArchivoCliente.cpp" />
+		<File name="Vendedor.cpp" />
+		<File name="ArchivoVendedor.cpp" />
+		<File name="ArchivoVendedor.h" />
+		<File name="Venta.cpp" />
+		<File name="Vendedor.h" />
+	</Target>
+</CodeBlocks_layout_file>
