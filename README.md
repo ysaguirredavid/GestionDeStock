@@ -1,4 +1,4 @@
-Proyecto de Laboratorio 2
+Proyecto de Progamacion C++ (Laboratorio 2 - UTN FRGP )
 Programa de Gestion de Stock
 - Alta-Baja de Clientes.
 - Alta-Baja de Vendedor.
